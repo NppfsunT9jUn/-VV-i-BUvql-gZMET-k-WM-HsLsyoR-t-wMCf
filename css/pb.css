@@ -1,0 +1,61 @@
+@media screen and (min-width: 501px) and (max-width: 800px) {
+    body {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        background-color: white;
+    }
+
+    .box {
+        border: white;
+    }
+
+    .bg {
+        float: left;
+        width: 20%;
+        padding: 10px;
+    }
+
+    .bg ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .bg ul li {
+        margin-bottom: 7px;
+        background-color: #33b5e5;
+        color: white;
+        text-align: center;
+    }
+
+    .bg ul li a {
+        display: block;
+        padding: 8px;
+        color: white;
+        text-decoration: none;
+    }
+
+    .wz {
+        float: left;
+        width: 70%;
+        padding: 10px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .yejiao {
+        display: none;
+    }
+
+    .yejiao2 {
+        font-size: 10px;
+        color: #8590a6;
+    }
+
+    .jianYiShouJiGuanKan {
+        display: none;
+    }
+}

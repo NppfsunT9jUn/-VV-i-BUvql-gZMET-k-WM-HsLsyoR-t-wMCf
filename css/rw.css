@@ -1,0 +1,90 @@
+@media screen and (min-width: 0px) and (max-width: 500px) {
+    .tuXiangBox {
+        width: 100%;
+    }
+
+    .tuXiang {
+        width: 100%;
+    }
+
+    .tuXiang p {
+        text-align: center;
+        margin: 5px 0px 9px 0px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .tuXiang p a:link,
+    .tuXiang p a:visited {
+        color: #666666;
+        text-decoration: none;
+    }
+
+    .tuXiang p a:hover,
+    .tuXiang p a:active {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 800px) {
+    .tuXiangBox {
+        width: 100%;
+    }
+
+    .tuXiang {
+        width: 47%;
+        float: left;
+        padding: 5px;
+    }
+
+    .tuXiang p {
+        text-align: center;
+        margin: 5px 0px 9px 0px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .tuXiang p a:link,
+    .tuXiang p a:visited {
+        color: #666666;
+        text-decoration: none;
+    }
+
+    .tuXiang p a:hover,
+    .tuXiang p a:active {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (min-width: 801px) {
+    .tuXiangBox {
+        width: 100%;
+    }
+
+    .tuXiang {
+        width: 24%;
+        float: left;
+        padding: 5px;
+    }
+
+    .tuXiang p {
+        text-align: center;
+        margin: 5px 0px 9px 0px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .tuXiang p a:link,
+    .tuXiang p a:visited {
+        color: #666666;
+        text-decoration: none;
+    }
+
+    .tuXiang p a:hover,
+    .tuXiang p a:active {
+        color: #000000;
+        text-decoration: underline;
+    }
+}

@@ -1,0 +1,75 @@
+@media screen and (min-width: 0px) and (max-width: 500px) {
+    .leiBox {
+        margin: 10px;
+        background-color: #f5f5f5;
+    }
+
+    .lei {
+        padding: 10px;
+    }
+
+    .lei ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .lei ul li {
+        display: inline-block;
+        padding: 5px;
+        background-color: #f1f1f1;
+    }
+
+    .xiaoLei1 {
+        background-color: #f1f1f1;
+        padding: 0.1px 15px;
+    }
+
+    .xiaoLei1 li,
+    .xiaoLei2 li {
+        list-style-type: none;
+    }
+
+    ul li a {
+        color: #000;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 501px) {
+    .leiBox {
+        margin: 10px;
+        background-color: #f5f5f5;
+    }
+
+    .lei {
+        padding: 10px;
+    }
+
+    .lei ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .lei ul li {
+        display: inline-block;
+        padding: 5px;
+        background-color: #f1f1f1;
+    }
+
+    .xiaoLei1 {
+        background-color: #f1f1f1;
+        padding: 0.1px 15px;
+    }
+
+    .xiaoLei1 li,
+    .xiaoLei2 li {
+        list-style-type: none;
+    }
+
+    ul li a {
+        color: #000;
+        text-decoration: none;
+    }
+}
